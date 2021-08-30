@@ -1,0 +1,15 @@
+lockfileVersion: 5.3
+
+specifiers:
+  nanoid: ^3.1.25
+
+dependencies:
+  nanoid: 3.1.25
+
+packages:
+
+  /nanoid/3.1.25:
+    resolution: {integrity: sha512-rdwtIXaXCLFAQbnfqDRnI6jaRHp9fTcYBjtFKE8eezcZ7LuLjhUaQGNeMXf1HmRoCH32CLz6XwX0TtxEOS/A3Q==}
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+    dev: false
